@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 ![gitstats](https://github-readme-stats.vercel.app/api?username=Zalcom53&count_private=true&show_icons=true&theme=radical)
 
+![gitlanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zalcom53&show_icons=true&theme=radical)
