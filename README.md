@@ -6,6 +6,8 @@ Hi there 👋
 
 C++ Fanboy ❤
 
+<button type="button" onclick="alert('Hello world!')">Click Me!</button>
+
 <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/Zalcom53/Zalcom53/blob/main/Daniel_Quihuis_CV.pdf" data-icon="octicon-download" aria-label="Download buttons/github-buttons on GitHub">Ver CV</a>
 
