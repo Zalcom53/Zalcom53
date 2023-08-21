@@ -1,6 +1,4 @@
 <!--###
-<!-- Place this tag in your head or just before your close body tag. -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>
 -->
 
 
@@ -16,8 +14,7 @@ C++ Fanboy ❤
 
 <!--
 **Zalcom53/Zalcom53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<!-- Place this tag in your head or just before your close body tag. -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
