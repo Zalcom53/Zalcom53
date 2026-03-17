@@ -6,9 +6,6 @@ Hi there 👋
 
 C/C++❤
 <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/Zalcom53/Zalcom53/blob/main/Daniel_Quihuis.pdf" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-download" data-size="large" aria-label="Download buttons/github-buttons on GitHub">Download</a>
-
-
 
 <!--
 **Zalcom53/Zalcom53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
